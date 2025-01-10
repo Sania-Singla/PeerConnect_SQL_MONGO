@@ -2,10 +2,9 @@
 
 A social website where you can post articles with an integrated text editor, follow other creators and interact with their posts via comments, likes and track you analytics via the admin dashboard
 
-## URL: (https://peerconnect-db.onrender.com)[PeerConnect]
+## URL: [PeerConnect](https://peerconnect-db.onrender.com)
 
-## For any Query or Bug - Please Contact (https://www.linkedin.com/in/sania-singla)[@Linkedin]
-
+## For any Query or Bug - Please Contact [@Linkedin](https://www.linkedin.com/in/sania-singla)
 ## Features
 
 ### JWT Authentication
